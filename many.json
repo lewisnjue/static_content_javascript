@@ -1,0 +1,17 @@
+[
+    {
+        "name":"lewis",
+        "age":21,
+        "course":"data science"
+    },
+    {
+        "name":"brain",
+        "age":22,
+        "course":"data science"
+    },
+    {
+        "name":"juliet",
+        "age":20,
+        "course":"education"
+    }
+]
